@@ -1,16 +1,18 @@
-id: 50c83b69-3d21-49b6-b152-5ad36f0940f4
 name: formcoach
-description: "Upload exercise form for posture grading and corrections"
+project_scope: main
+project_type: standalone
+description: Upload exercise form for posture grading and corrections
 tier: prototype
 lane: side-projects
 priority: low
-category: vision
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/formcoach
+repo: "https://github.com/mxn2020/formcoach"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, fitness, form, exercise, coaching, vision, sports]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 50c83b69-3d21-49b6-b152-5ad36f0940f4
