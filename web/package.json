@@ -45,7 +45,7 @@
   },
   "description": "Upload exercise form for posture grading and corrections",
   "author": "Mehdi Nabhani <mehdi@geenius.app>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/formcoach.git"
